@@ -13,7 +13,7 @@ def calc(x):
 # browser = webdriver.Chrome()
 # link = "https://SunInJuly.github.io/execute_script.html"
 # browser.get(link)
-# button = browser.find_element(By.TAG_NAME, "button")
+# button = browser.find_element(By.TAG_NAME, "button")ывывывыв
 # browser.execute_script("return arguments[0].scrollIntoView(true);", button)
 # button.click()
 # time.sleep(10)
